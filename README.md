@@ -1,6 +1,6 @@
 **About:**
 
-A python telegram bot that scrapes infomation about fresh free Udemy coupons content from couponscorpion.com and sends it to teleram channel https://t.me/scudemy.
+A python telegram bot that scrapes information about fresh free Udemy coupons content from couponscorpion.com and sends it to teleram channel https://t.me/scudemy.
 To prevent sending same coupon twice it adds all new records into a database and stores them for a month.
 
 **Usage: main.py token chat**
